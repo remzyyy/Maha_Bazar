@@ -1,2 +1,3 @@
 # Mahabazaar--Website
-we have used HTML,CSS and very minor JS code
+[My_Git-ID](https://github.com/remzyyy)
+[my_Project](https://github-profilesite.netlify.app/)
